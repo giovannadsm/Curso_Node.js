@@ -5,4 +5,4 @@
 //--> E tambem executar determinados scripts no nosso programa;
 //--> Dificilmente um software em Node.js nao utiliza o npm;
 //--> Os modulos externos ficam numa pasta chamada node_modules;
-//--> Ela deve ser descartavel, ou seja, a cada instalacao do projeto baixamos todos os pacotes novamente;
+//--> Ela deve ser descartavel, ou seja, a cada instalacao do projeto baixamos todos os pacotes novamente.
