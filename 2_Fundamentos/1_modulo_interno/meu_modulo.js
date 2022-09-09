@@ -1,7 +1,7 @@
 module.exports = {
 
-     soma(a,b) {
-        console.log(a + b)
+     soma(a,b,c) {
+        console.log(a + b + c)
     },
 
 }
